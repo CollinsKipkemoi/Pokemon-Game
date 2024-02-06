@@ -1,0 +1,120 @@
+{
+    "card0": {
+        "name": "Pikachu",
+        "type": "electric",
+        "hp": 60,
+        "attack": 20,
+        "defense": 20,
+        "price": 160,
+        "description": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/025.png",
+        "id": "card0",
+        "owner": "admin"
+    },
+    "card1": {
+        "name": "Charizard",
+        "type": "fire",
+        "hp": 78,
+        "attack": 84,
+        "defense": 78,
+        "price": 534,
+        "description": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/006.png",
+        "owner": "admin"
+    },
+    "card3": {
+        "name": "Squirtle",
+        "type": "water",
+        "hp": 44,
+        "attack": 48,
+        "defense": 65,
+        "price": 314,
+        "description": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/007.png",
+        "owner": "admin"
+    },
+    "65a3c154deb0f": {
+        "name": "Metapod",
+        "type": "bug",
+        "hp": 234,
+        "attack": 344,
+        "defense": 123,
+        "price": 345,
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/011.png",
+        "description": " MetapodStats HP Attack Defense Special Attack Special Defense Speed> It is waiting for the moment to evolve. At this stage, it can only harden, so it remains motionless to avoid attack.",
+        "id": "65a3c154deb0f",
+        "owner": "admin"
+    },
+    "65a65c5c78c35": {
+        "name": "Blastoise",
+        "type": "fire",
+        "hp": 21,
+        "attack": 22,
+        "defense": 134,
+        "price": 199,
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/009.png",
+        "description": "It crushes its foe under its heavy body to cause fainting. In a pinch, it will withdraw inside its shell.",
+        "id": "65a65c5c78c35",
+        "owner": "admin"
+    },
+    "65ad1840be0e0": {
+        "name": "Bulbasaur",
+        "type": "grass",
+        "hp": 45,
+        "attack": 49,
+        "defense": 49,
+        "price": 318,
+        "description": "A strange seed was planted on its back at birth. The plant sprouts and grows with this POK\u00e9MON.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/001.png",
+        "owner": "admin",
+        "id": "65ad1840be0e0"
+    },
+    "65ad19758a9c9": {
+        "name": "Caterpie",
+        "type": "bug",
+        "hp": 45,
+        "attack": 30,
+        "defense": 35,
+        "price": 195,
+        "description": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/010.png",
+        "owner": "admin",
+        "id": "65ad19758a9c9"
+    },
+    "65ad198d5a924": {
+        "name": "ivysaur",
+        "type": "fire",
+        "hp": 234,
+        "attack": 434,
+        "defense": 133,
+        "price": 300,
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/002.png",
+        "description": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+        "owner": "admin",
+        "id": "65ad198d5a924"
+    },
+    "65ad19a5a72f7": {
+        "name": "Weedle",
+        "type": "bug",
+        "hp": 40,
+        "attack": 35,
+        "defense": 30,
+        "price": 195,
+        "description": "Often found in forests, eating leaves. It has a sharp venomous stinger on its head.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/013.png",
+        "id": "65ad19a5a72f7",
+        "owner": "admin"
+    },
+    "65ad1a414d61c": {
+        "name": "Nidoran",
+        "type": "poison",
+        "hp": 233,
+        "attack": 233,
+        "defense": 233,
+        "price": 200,
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/029.png",
+        "description": "Females are more sensitive to smells than males. While foraging, they\u2019ll use their whiskers to check wind direction and stay downwind of predators.",
+        "owner": "admin",
+        "id": "65ad1a414d61c"
+    }
+}

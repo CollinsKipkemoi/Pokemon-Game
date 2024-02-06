@@ -1,0 +1,68 @@
+{
+    "admin": {
+        "username": "admin",
+        "password": "admin",
+        "email": "admin@gmail.com",
+        "cards": [
+            {
+                "name": "Kakuna",
+                "type": "poison",
+                "hp": 133,
+                "attack": 443,
+                "defense": 111,
+                "price": 166,
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/014.png",
+                "description": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
+                "owner": "admin",
+                "id": "65a67ba5c7719"
+            },
+            {
+                "name": "tt",
+                "type": "fire",
+                "hp": 333,
+                "attack": 112,
+                "defense": 344,
+                "price": 243,
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/014.png",
+                "description": "ButterfreeStats HP Attack Defense Special Attack Special Defense Speed> It loves the nectar of flowers and can locate flower patches that have even tiny amounts of pollen.",
+                "owner": "admin",
+                "id": "65a67bdbda82b"
+            },
+            {
+                "name": "ivysaur",
+                "type": "fire",
+                "hp": 234,
+                "attack": 434,
+                "defense": 133,
+                "price": 300,
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/002.png",
+                "description": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs.",
+                "owner": "admin",
+                "id": "65ad152d09582"
+            },
+            {
+                "name": "Nidoran",
+                "type": "poison",
+                "hp": 233,
+                "attack": 233,
+                "defense": 233,
+                "price": 200,
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/029.png",
+                "description": "Females are more sensitive to smells than males. While foraging, they\u2019ll use their whiskers to check wind direction and stay downwind of predators.",
+                "owner": "admin",
+                "id": "65ad1a414d61a"
+            }
+        ],
+        "amount": null
+    },
+    "65a682d3e0d19": {
+        "username": "nerd",
+        "email": "Nerd@gmail.com",
+        "password": "nerd12",
+        "amount": 433.5,
+        "cards": [],
+        "id": "65a682d3e0d19",
+        "balance": 0,
+        "money": 286.2
+    }
+}
